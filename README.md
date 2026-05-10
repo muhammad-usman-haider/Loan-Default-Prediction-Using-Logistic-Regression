@@ -37,7 +37,7 @@ The model uses the following features to predict loan default risk:
 - Loan Amount
 - Loan Amount Term
 
-### Categorical Features:
+## Categorical Features:
 - Gender
 - Marital Status
 - Number of Dependents
