@@ -2,7 +2,7 @@
 
 This project implements a machine learning model to predict loan default risk using logistic regression. It includes data preprocessing, model training, evaluation, and a web interface for making predictions.
 
-## Project Structure
+# Project Structure
 
 ```
 loan_default_prediction/
