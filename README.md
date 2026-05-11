@@ -106,7 +106,7 @@ The current model achieves the following performance metrics:
            1       0.76      0.99      0.86        80
 ```
 
-## Data Visualizations
+# Data Visualizations
 
 The project generates several visualizations to help understand the data:
 
