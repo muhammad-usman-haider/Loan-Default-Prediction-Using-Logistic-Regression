@@ -99,7 +99,7 @@ The current model achieves the following performance metrics:
 - **Precision** (No Default): 95%
 - **Recall** (Default): 99%
 
-### Detailed Metrics:
+## Detailed Metrics:
 ```
               precision    recall  f1-score   support
            0       0.95      0.42      0.58        43
