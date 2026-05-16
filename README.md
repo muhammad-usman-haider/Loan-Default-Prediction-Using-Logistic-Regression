@@ -1,6 +1,6 @@
 # Loan Default Prediction Using Logistic Regression
 
-This project implements a machine learning model to predict loan default risk using logistic regression. It includes data preprocessing, model training, evaluation, and a web interface for making predictions.
+This project implements a machine learning model to predict loan default risk using logistic regression. It includes data preprocessing, model training, evaluation, and a web interface for making predictions..
 
 # Project Structure
 
