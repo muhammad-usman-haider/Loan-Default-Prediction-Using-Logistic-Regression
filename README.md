@@ -31,7 +31,7 @@ loan_default_prediction/
 
 The model uses the following features to predict loan default risk:
 
-### Numerical Features:
+## Numerical Features:
 - Applicant Income
 - Coapplicant Income
 - Loan Amount
